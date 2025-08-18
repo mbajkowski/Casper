@@ -3353,10 +3353,10 @@ graceful-fs@^4.0.0, graceful-fs@^4.1.11, graceful-fs@^4.1.2, graceful-fs@^4.1.6,
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.4.tgz#2256bde14d3632958c465ebc96dc467ca07a29fb"
   integrity sha512-WjKPNJF79dtJAVniUlGGWHYGz2jWxT6VhN/4m1NdkbZ2nOsEF+cI1Edgql5zCRhs/VsQYRvrXctxktVXZUkixw==
 
-gscan@4.49.1:
-  version "4.49.1"
-  resolved "https://registry.yarnpkg.com/gscan/-/gscan-4.49.1.tgz#2835fc0f658bfd84c135c8fac7a68defb45a12fb"
-  integrity sha512-1kbEW0nGzIND/sqmWMZGF3aP3J5XD5PTeE/6O8GGwozOn0sd26UPfsRvWsfUu093R2pO2lLLItyUjtlDvvLsbQ==
+gscan@5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/gscan/-/gscan-5.1.0.tgz#607e2310dd973d08ac16968e80b1a90061c0957f"
+  integrity sha512-Q/j8Dgh1Ht7KQhZaxhl8IdH7flI6jJqglz9kGykCFAWVVCHddEZRhEfgmxyQ1XgzYCWSdiMlq/v1PliFfQVFyg==
   dependencies:
     "@sentry/node" "^9.0.0"
     "@tryghost/config" "^0.2.18"
