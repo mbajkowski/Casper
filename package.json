@@ -1,8 +1,8 @@
 {
-    "name": "casper",
-    "description": "A clean, minimal default theme for the Ghost publishing platform",
-    "demo": "https://demo.ghost.io",
-    "version": "5.9.0",
+    "name": "bajkowski-casper",
+    "description": "A modified version of default theme for the Ghost publishing platform",
+    "demo": "https://bajkowski.com",
+    "version": "0.1.0",
     "engines": {
         "ghost": ">=5.0.0"
     },
@@ -22,9 +22,9 @@
         "postship": "git fetch && gulp release"
     },
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org/"
+        "name": "Maciej Bajkowski",
+        "email": "mbajkowski@hotmail.com",
+        "url": "https://bajkowski.com/"
     },
     "gpm": {
         "type": "theme",
