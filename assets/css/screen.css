@@ -3046,12 +3046,12 @@ html.dark-mode .footer-cta-title {
     margin-top: 1em;
 }
 
-.page-tags-list .post-card-excerpt p {
-    font-size: 1.7rem;
-}
-
 .page-tags-list .post-card-title {
     margin-top: 1em;
+}
+
+.page-tags-list .post-card-excerpt p {
+    font-size: 1.7rem;
 }
 
 .page-tags-list p {
