@@ -20,6 +20,7 @@ production stylesheet in assets/built/screen.css
 10.  Site Footer
 11. Dark Mode
 12. Lightbox
+13. Tags List Template 
 
 */
 
@@ -3036,6 +3037,29 @@ html.dark-mode .footer-cta-title {
 
 .pswp--minimal--dark .pswp__top-bar {
     background: none;
+}
+
+/* 13. Tags Page Formatting
+/* ---------------------------------------------------------- */
+
+.page-tags-list {
+    margin-top: 1em;
+}
+
+.page-tags-list .post-card-excerpt p {
+    font-size: 1.7rem;
+}
+
+.page-tags-list .post-card-title {
+    margin-top: 1em;
+}
+
+.page-tags-list p {
+    margin-left: 2em;
+}
+
+.page-tags-list a {
+    text-decoration: none;
 }
 
 /*
