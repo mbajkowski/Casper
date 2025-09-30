@@ -41,7 +41,7 @@ into the {body} tag of the default.hbs template --}}
         {{content}}
 
         <section class="page-tags-list">
-            {{#get 'tags' limit='all' include='count.posts' order='count.posts desc'}}
+            {{#get 'tags' limit='100' include='count.posts' order='count.posts desc'}}
             {{#foreach tags}}
                 <a href='{{ url }}'>
                     <h2 class="post-card-title">{{ name }} ({{ count.posts }})</h2>
