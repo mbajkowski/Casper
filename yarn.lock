@@ -2779,16 +2779,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tryghost/theme-translations@npm:~0.0.14":
-  version: 0.0.14
-  resolution: "@tryghost/theme-translations@npm:0.0.14"
-  checksum: 10c0/1427c1b5fce68dce4b651c2982185691611de19a509a2f4353fdb4d3668ebcd687e875c60745e4ffec0d90a01007cfdd19ef91d0a1bb473fb7a095746712386d
-  languageName: node
-  linkType: hard
+"@tryghost/theme-translations@~0.0.16":
+  version "0.0.16"
+  resolved "https://registry.yarnpkg.com/@tryghost/theme-translations/-/theme-translations-0.0.16.tgz#5cdcf5153df4cd4f93663f23d4247542e7be79f6"
+  integrity sha512-1KQBJfpSjzK+0JPOhtIVmwjRqYo/auFFNC+oqyOGDsI10JIznYzhS2JP6eQutBWgCFEoLaHF3fBrNbrx0UD0ag==
 
-"@tryghost/tpl@npm:^0.1.35":
-  version: 0.1.35
-  resolution: "@tryghost/tpl@npm:0.1.35"
+"@tryghost/tpl@^0.1.35":
+  version "0.1.35"
+  resolved "https://registry.yarnpkg.com/@tryghost/tpl/-/tpl-0.1.35.tgz#7ad6b84f94529b2e709046255706dcda083267c9"
+  integrity sha512-U6zWUnxDgw2nHZc5DTI0JuqYsytK76BVfIB3hz2rYrCKL4O6JL76F25Jr6I+A8cEIfL5GKLSG8/tWmEAHLy0Mg==
   dependencies:
     lodash.template: "npm:^4.5.0"
   checksum: 10c0/ba1df4d373623ad55f22b9129dafc00c04045a7e45a071684e4fba1decb8e3ebfe5bce8666187778df0085d3212ccd88b63c08d457f69dcc3e1be4c4c54eb180
