@@ -2185,9 +2185,9 @@ html.dark-mode .gh-button-share:hover {
 
 .site-footer-nav ul {
     display: flex;
-    /*justify-content: center;*/
+    justify-content: center;
     /*move content to right side*/
-    justify-content: flex-end;
+    /*justify-content: flex-end;*/
     flex-wrap: wrap;
     margin: 0;
     padding: 0;
@@ -2240,9 +2240,9 @@ html.dark-mode .gh-button-share:hover {
         margin-bottom: 16px;
     }
     /* center nav in mobile view */
-    .site-footer-nav ul { 
-        justify-content: center; 
-    }
+    /* .site-footer-nav ul { */
+    /*    justify-content: center;/ 
+    /}*/
     .site-footer-center {
         margin-bottom: 16px;
     }
